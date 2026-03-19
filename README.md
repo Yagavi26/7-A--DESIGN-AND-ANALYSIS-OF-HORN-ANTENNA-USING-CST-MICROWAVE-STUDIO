@@ -39,6 +39,10 @@ U a	L  2 we get a=110 mm for both E and H plane.
 
 <img width="624" height="375" alt="image" src="https://github.com/user-attachments/assets/c75feeaf-de93-4ca6-9ed3-58d6a8d7ba52" />
 
+**Conclusion**
+
+From this Experiment we have Designed a Horn-antenna which is Operating at a frequency of 5.5 GHz,from this we have Found the S11 C/s,Directivity and Radiation Pattern. From which we found that the Directivity to be near 15.
+
 Result:
 
 The horn antenna was successfully designed and simulated using CST Microwave Studio to operate at 5.5 GHz.
@@ -63,9 +67,6 @@ Half Power Beam Width (HPBW): ≈ 26°
 
 Hence, the designed horn antenna provides good impedance matching, high directivity, and a narrow beam width suitable for microwave applications.
 
-**Conclusion**
-
-From this Experiment we have Designed a Horn-antenna which is Operating at a frequency of 5.5 GHz,from this we have Found the S11 C/s,Directivity and Radiation Pattern. From which we found that the Directivity to be near 15.
 
 
 
